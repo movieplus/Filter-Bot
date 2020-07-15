@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 *Hello Dude* {},*My Name is* *{}*!
 
-Iam a Cinemagroup management Filter Bot [bot](https://t.me/ericowen)
+Iam a Cinemagroup management Filter [bot](https://t.me/helloraam)
 
 *Join our group* 
 
@@ -28,8 +28,8 @@ Iam a Cinemagroup management Filter Bot [bot](https://t.me/ericowen)
 
 Join Now
 
-*Channel:© @Cinemaglitz*
-*Group:  © @Cglitz*
+*Group @Movie_Plus_All*
+*Channel @MP_PLUS_NEW
 
 /help for more details..
 """
